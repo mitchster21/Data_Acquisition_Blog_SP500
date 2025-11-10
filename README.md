@@ -28,6 +28,7 @@ After scraping and merging both datasets, a basic **Exploratory Data Analysis** 
 - `scrape.ipynb` — Jupyter notebook for scraping and analysis  
 - `sp500_merged.csv` — Final merged dataset used in the analysis  
 - `README.md` — Project documentation 
+- `.gitignore` — Git ignore file
 
 ## Tools & Libraries
 - **Python 3.12**
