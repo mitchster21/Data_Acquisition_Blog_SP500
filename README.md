@@ -15,14 +15,14 @@ After scraping and merging both datasets, a basic **Exploratory Data Analysis** 
 - Top/bottom performing stocks 
 
 ## Data Description
-`Ticker` - Company ticker symbol 
-`Company` - Full company name 
-`Sector` - Industry sector classification 
-`SubIndustry` - More specific industry classification
-`1Y_Change(%)` - Percent change in stock price over the past year
-`Volatility(%)` - Annualized volatility of daily returns
-`AvgAnnualReturn(%)` - Average annualized return percentage
-`MaxDrawdown(%)` - Maximum decline from peak to trough over the year
+- `Ticker` - Company ticker symbol 
+- `Company` - Full company name 
+- `Sector` - Industry sector classification 
+- `SubIndustry` - More specific industry classification
+- `1Y_Change(%)` - Percent change in stock price over the past year
+- `Volatility(%)` - Annualized volatility of daily returns
+- `AvgAnnualReturn(%)` - Average annualized return percentage
+- `MaxDrawdown(%)` - Maximum decline from peak to trough over the year
 
 ## Files
 - `scrape.ipynb` — Jupyter notebook for scraping and analysis  
